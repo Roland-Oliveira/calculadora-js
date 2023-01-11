@@ -7,6 +7,6 @@
 
 <hr>
 <p align="center">
-  <img alt="License" src=".github/preview.png">
+  <img alt="License" src=".github/preview.jpg">
 </p>
 <p>Acesso ao projeto: https://calculadora-roland.netlify.app</p>
